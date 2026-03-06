@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
 """
-Turkish RAG Server - Port 5001
-Loads Turkish data and serves Turkish RAG
+English RAG Server - Port 5002
+Loads English data and serves English RAG
 """
 import os
 import sys
 from pathlib import Path
 from dotenv import load_dotenv
 
-# Load Turkish config
-env_path = Path(__file__).parent / ".env.turkish"
+# Load English config
+env_path = Path(__file__).parent / ".env.english"
 load_dotenv(env_path, override=True)
 
-print(f"🇹🇷 Loading Turkish RAG configuration from {env_path}")
+print(f"🇬🇧 Loading English RAG configuration from {env_path}")
 print(f"   Chunks: {os.getenv('CHUNKS_PATH')}")
 print(f"   Index: {os.getenv('FAISS_INDEX_PATH')}")
-print(f"   Port: 5001\n")
+print(f"   Port: 5002\n")
 
-# Import and run the main server with Turkish config
+# Import and run the main server with English config
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from openai import OpenAI
@@ -45,7 +45,7 @@ async def lifespan(app: FastAPI):
     global rag_service
     
     # Startup
-    logger.info("🇹🇷 Starting Turkish RAG system...")
+    logger.info("🇬🇧 Starting English RAG system...")
     
     # Load configuration
     config = RAGConfig.from_env()
@@ -57,18 +57,18 @@ async def lifespan(app: FastAPI):
     # Initialize RAG service
     rag_service = RAGService(config, openai_client)
     
-    logger.info("✅ Turkish RAG system ready!")
+    logger.info("✅ English RAG system ready!")
     
     yield
     
     # Shutdown
-    logger.info("Shutting down Turkish RAG system...")
+    logger.info("Shutting down English RAG system...")
 
 
 # Initialize FastAPI app
 app = FastAPI(
-    title="IZU Turkish RAG System",
-    description="Turkish-only RAG with parent-child chunking",
+    title="IZU English RAG System",
+    description="English-only RAG with parent-child chunking",
     version="2.0.0",
     lifespan=lifespan
 )
@@ -87,10 +87,10 @@ app.add_middleware(
 async def root():
     """Root endpoint"""
     return {
-        "message": "🇹🇷 IZU Turkish RAG System v2.0",
-        "language": "Turkish",
+        "message": "🇬🇧 IZU English RAG System v2.0",
+        "language": "English",
         "status": "running",
-        "port": 5001
+        "port": 5002
     }
 
 
@@ -113,7 +113,7 @@ async def stats():
         total_parents=len(rag_service.chunk_loader.parent_chunks),
         index_vectors=rag_service.vector_store.index.ntotal,
         config={
-            "language": "Turkish",
+            "language": "English",
             "embedding_model": rag_service.config.embedding_model,
             "chat_model": rag_service.config.chat_model,
             "reranker": rag_service.config.reranker_type,
@@ -130,7 +130,7 @@ async def chat(request: ChatRequest):
     """Chat endpoint with conversation history support"""
     try:
         # Generate conversation ID if not provided
-        conversation_id = request.conversation_id or f"conv_tr_{int(time.time())}"
+        conversation_id = request.conversation_id or f"conv_en_{int(time.time())}"
         
         # Process query
         response = rag_service.query(
@@ -194,11 +194,11 @@ if __name__ == "__main__":
     import uvicorn
     
     print("\n" + "="*80)
-    print("🇹🇷 IZU TURKISH RAG SYSTEM v2.0 - STARTING SERVER")
+    print("🇬🇧 IZU ENGLISH RAG SYSTEM v2.0 - STARTING SERVER")
     print("="*80)
-    print("\nServer will start at: http://localhost:5001")
-    print("API docs available at: http://localhost:5001/docs")
+    print("\nServer will start at: http://localhost:5002")
+    print("API docs available at: http://localhost:5002/docs")
     print("\nPress Ctrl+C to stop")
     print("="*80 + "\n")
     
-    uvicorn.run(app, host="0.0.0.0", port=5001, log_level="info")
+    uvicorn.run(app, host="0.0.0.0", port=5002, log_level="info")

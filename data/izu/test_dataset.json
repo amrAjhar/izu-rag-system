@@ -1,0 +1,888 @@
+[
+  {
+    "id": "q001",
+    "question_tr": "İZÜ'de kaç fakülte var?",
+    "question_en": "How many faculties are there at IZU?",
+    "category": "general_info",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "fakülte",
+      "faculty",
+      "kaç"
+    ],
+    "ground_truth_answer": "Title: Barkat Atölyesi Yönergesi URL: https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi Barkat Atölyesi Yönergesi İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK BÖLÜMÜ BARKAT YAPI ÜRETİM ATÖLYESİ YÖNERGESİ BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar Amaç 1 – Bu yönergenin amacı; Mühendislik ve Doğa Bilimleri Fakültesi “Barkat Yapı Üretim Atölyesi”nde yürütülecek faaliyetlerin tanımlanması....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q002",
+    "question_tr": "İZÜ ne zaman kuruldu?",
+    "question_en": "When was IZU established?",
+    "category": "general_info",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "kuruluş",
+      "foundation",
+      "yıl"
+    ],
+    "ground_truth_answer": "İKİNCİ BÖLÜM Barkat’ın Amaçları ve Faaliyet Alanı 5 – Barkat’ın amaçları ve faaliyet alanları şunlardır: a) Barkat adlı ahşap yapım sisteminin ve bu sistemin ürünü olarak Bark’ın yapısal ve mekânsal uyarlama ve çeşitlemelerine yönelik araştırma, uygulama ve geliştirme çalışmalarını yürütmek b) Genelde yapı teknolojisi ve restorasyonu, özelde mimari mirasımız dahilindeki....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q003",
+    "question_tr": "İZÜ kampüsü nerede?",
+    "question_en": "Where is the IZU campus located?",
+    "category": "general_info",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "kampüs",
+      "campus",
+      "nerede"
+    ],
+    "ground_truth_answer": "Title: Hizmetler URL: https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/hizmetler Hizmetler Kafeteryalar Öğrencilerin beslenme ve ders dışı zamanlarında dinlenmelerine ve eğlenmelerine yönelik olarak, kampüsümüzde muhtelif kantin ve kafeteryalar bulunuyor Bulunduğu konum itibariyle, yeşil bir doğanın içerisinde yer alan kafeterya ve kantinlerimiz, öğrencilerimiz için ayrıcalıklı ve güzel bir buluşma noktası Kafeteryalarda öğrencilerimizin eğlence, dinlenme ve beslenme ihtiyaçlarını....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/hizmetler",
+      "https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/hizmetler"
+    ]
+  },
+  {
+    "id": "q004",
+    "question_tr": "İZÜ'de kaç öğrenci okuyor?",
+    "question_en": "How many students study at IZU?",
+    "category": "general_info",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "öğrenci sayısı",
+      "student",
+      "number"
+    ],
+    "ground_truth_answer": "X YÜRÜRLÜK: 29- Bu yönerge senatosunca kabul edildiği tarih itibarıyla yürürlüğe girer 30- Bu yönerge hükümlerini Rektörü yürütür 31 Bu yönergede yer almayan konular için, yasa ve yönetmeliklerdeki hükümler geçerlidir EK 1 : ÖNERİ FORMU EK 2 : İLK SAYFANIN ARKA YÜZÜ İÇERİĞİ EK 3 : ÖNERİ DEĞERLENDİRME FORMU EK....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/yay%C4%B1n-komisyonu-%C3%A7al%C4%B1%C5%9Fma-y%C3%B6nergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/erasmus-program%C4%B1-y%C3%B6nergesi"
+    ]
+  },
+  {
+    "id": "q005",
+    "question_tr": "İZÜ'nün misyonu nedir?",
+    "question_en": "What is IZU's mission?",
+    "category": "general_info",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "misyon",
+      "mission",
+      "vizyon"
+    ],
+    "ground_truth_answer": "Title: Özel Bağış Bursu URL: https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ozel-bagis-bursu Özel Bağış Bursu Madde 19 - (1) Üniversite öğrencilerini desteklemek amacıyla gerçek veya tüzel kişiler tarafından yapılan bağışlar, öğrencilerin ödemeleri gereken öğrenim ücreti üzerinden indirim yapılarak veya öğrenciye nakit ödenerek kullandırılır (2) Bu bursların verileceği öğrenciler, sağlanacak indirim oranları ve ödenecek nakit tutarlar bağışın....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ozel-bagis-bursu",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi"
+    ]
+  },
+  {
+    "id": "q006",
+    "question_tr": "İZÜ hangi akreditasyonlara sahip?",
+    "question_en": "What accreditations does IZU have?",
+    "category": "general_info",
+    "language": "tr",
+    "difficulty": "hard",
+    "expected_topics": [
+      "akreditasyon",
+      "accreditation"
+    ],
+    "ground_truth_answer": "Bilgi bulunamadı.",
+    "requires_urls": []
+  },
+  {
+    "id": "q007",
+    "question_tr": "İZÜ rektörü kimdir?",
+    "question_en": "Who is the rector of IZU?",
+    "category": "general_info",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "rektör",
+      "rector",
+      "president"
+    ],
+    "ground_truth_answer": "Title: Barkat Atölyesi Yönergesi URL: https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi Barkat Atölyesi Yönergesi İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK BÖLÜMÜ BARKAT YAPI ÜRETİM ATÖLYESİ YÖNERGESİ BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar Amaç 1 – Bu yönergenin amacı; Mühendislik ve Doğa Bilimleri Fakültesi “Barkat Yapı Üretim Atölyesi”nde yürütülecek faaliyetlerin tanımlanması....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q008",
+    "question_tr": "İZÜ dünya sıralamasında kaçıncı?",
+    "question_en": "What is IZU's world ranking?",
+    "category": "general_info",
+    "language": "tr",
+    "difficulty": "hard",
+    "expected_topics": [
+      "sıralama",
+      "ranking",
+      "university"
+    ],
+    "ground_truth_answer": "Title: Tercih İndirimi URL: https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari Tercih İndirimi 2025-YKS yerleştirme sonuçlarına göre, Üniversitemizin lisans programlarına yerleşen öğrencilere, tercih sıralaması ve programa göre %40 ile %15 arasında değişen oranlarda “Tercih İndirimi” uygulanacaktır Tercih İndirimi, öğrencinin kayıtlı olduğu programın azami öğrenim süresi boyunca geçerli olup detaylı bilgilere Üniversitemizin Aday Öğrenci web sitesinden ve....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi"
+    ]
+  },
+  {
+    "id": "q009",
+    "question_tr": "İZÜ'de hangi lisans programları var?",
+    "question_en": "What undergraduate programs are available at IZU?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "lisans",
+      "undergraduate",
+      "program"
+    ],
+    "ground_truth_answer": "Barkat Personeli’nin Görev ve Yükümlülükleri 7 – Barkat Personeli’nin görev ve yükümlülükleri şunlardır: a) Personel, atölyenin verimli ve güvenli olarak çalışmasından, atölyedeki donanım(lar)ın kullanımından, bakımından ve temizliğinden sorumludur b) Personel, atölyedeki donanımların bakım işlemleri için gerekli yedek parça ve sarf malzeme ihtiyacını Atölyesi Sorumlusu’na bildirir c) Personel, atölyedeki donanıma ait....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q010",
+    "question_tr": "Yüksek lisans programları nelerdir?",
+    "question_en": "What are the graduate programs?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "yüksek lisans",
+      "master",
+      "graduate"
+    ],
+    "ground_truth_answer": "Daha önceki Üniversitemde aldığım derslerden muafiyet talebinde bulunabilir miyim - Daha önce YÖK denkliği edilen herhangi yükseköğretim kurumunda görmüş öğrenci, o yükseköğretim kurumunda alıp olduğu dersler için, anabilim dalı başkanlığına not belgesinin aslını ve ders içeriklerini teslim etmeli daha sonra kampüs bilgi sisteminden ders muafiyet talebinde bulunmalıdır - Öğrenci, muafiyet....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/sikca-sorulan-sorular",
+      "https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/tez-danismanligi-i-lkeleri"
+    ]
+  },
+  {
+    "id": "q011",
+    "question_tr": "Doktora programları var mı?",
+    "question_en": "Are there PhD programs?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "doktora",
+      "phd",
+      "doctoral"
+    ],
+    "ground_truth_answer": "Title: Sıkça Sorulan Sorular URL: https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/sikca-sorulan-sorular Sıkça Sorulan Sorular İZU E-Posta Nasıl Kullanılır Lisansüstü programlarda gören öğrencilerimizin destek ve bilgi talepleri sadece \" std.izu.edu.tr \" uzantılı e-posta adreslerini kullanmaları zorunludur Şahsi e-posta adresleri istenen bilgilere cevap verilmeyecektir \" std.izu.edu.tr \" uzantılı e-posta adresinden gönderilen mailler de, numarası tc kimlik numarası,....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/sikca-sorulan-sorular",
+      "https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/sikca-sorulan-sorular"
+    ]
+  },
+  {
+    "id": "q012",
+    "question_tr": "Hangi programlar İngilizce verilmektedir?",
+    "question_en": "Which programs are taught in English?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "hard",
+    "expected_topics": [
+      "ingilizce",
+      "english",
+      "program"
+    ],
+    "ground_truth_answer": "Barkat Personeli’nin Görev ve Yükümlülükleri 7 – Barkat Personeli’nin görev ve yükümlülükleri şunlardır: a) Personel, atölyenin verimli ve güvenli olarak çalışmasından, atölyedeki donanım(lar)ın kullanımından, bakımından ve temizliğinden sorumludur b) Personel, atölyedeki donanımların bakım işlemleri için gerekli yedek parça ve sarf malzeme ihtiyacını Atölyesi Sorumlusu’na bildirir c) Personel, atölyedeki donanıma ait....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q013",
+    "question_tr": "Mühendislik fakültesinde hangi bölümler var?",
+    "question_en": "What departments are in the Engineering faculty?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "mühendislik",
+      "engineering"
+    ],
+    "ground_truth_answer": "Title: Barkat Atölyesi Yönergesi URL: https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi Barkat Atölyesi Yönergesi İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK BÖLÜMÜ BARKAT YAPI ÜRETİM ATÖLYESİ YÖNERGESİ BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar Amaç 1 – Bu yönergenin amacı; Mühendislik ve Doğa Bilimleri Fakültesi “Barkat Yapı Üretim Atölyesi”nde yürütülecek faaliyetlerin tanımlanması....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q014",
+    "question_tr": "İşletme programı hakkında bilgi verir misiniz?",
+    "question_en": "Can you provide information about the business program?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "işletme",
+      "business",
+      "management"
+    ],
+    "ground_truth_answer": "(11) herhangi kazaya karışması durumunda mutlaka tutanak tutulması sağlanarak Başkanlığına bilgi verilir (12) Aracı kullanması gereken sürücü idari birime tahsis edilen aracı kullanan çalışan Kullanım Yönergesine uymak zorundadır Kullanıcı tesliminde Yönergeyi okuduğunu, ve sorumlulukları kabul ettiğini beyan ve taahhüt ettiğini kabul eder (13) içerisinde, yapılan işin mahiyetinin dışında mensupları dışında....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/ulasim-araclari-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/is-yeri-mesleki-egitim-program%C4%B1-iymep-yonergesi"
+    ]
+  },
+  {
+    "id": "q015",
+    "question_tr": "Hukuk fakültesi var mı?",
+    "question_en": "Is there a law faculty?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "hukuk",
+      "law"
+    ],
+    "ground_truth_answer": "3 iş günü içinde alınmayan iş ve sarf malzeme atölyenin ihtiyarında kullanılır Atölyeye ait olan herhangi araç-gereç dışarıya çıkarılmamalıdır Ek-2 Yapı Üretim Atölyesi’ndeki Donanımı Kullanım Talep ve Açık Rıza Formu 1 Kişisel Bilgiler Adı Soyadı: .............................................................. T.C Kimlik No: ........................................................",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/kurumlararasi-yatay-gecis-yonergesi"
+    ]
+  },
+  {
+    "id": "q016",
+    "question_tr": "Tıp fakültesi var mı?",
+    "question_en": "Is there a medical school?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "tıp",
+      "medicine",
+      "medical"
+    ],
+    "ground_truth_answer": "Tanımlar 4 – Bu Yönergenin uygulanmasında; Araştırmacı: projesinin yürütülebilmesi ekibinde verilen; elemanlarını, konusu üniversitenin lisansüstü öğrencilerini tamamladıkları yükseköğretim eğitimi edindikleri uzmanlık nedeniyle projede verilen kişileri, ARBİS: Türkiye ve Teknolojik Araştırma Kurumu (TÜBİTAK) tasarlanan ve geliştirilen ortak veri tabanını, Araştırma Projeleri Komisyonu (Komisyon): Kurum içi dışı fonlanan önerilerinin alınması, değerlendirilmesi ve....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/bilimsel-arastirma-projeleri-koordinatorlugu-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/yurt-disindan-ogrenci-kabul-yonergesi"
+    ]
+  },
+  {
+    "id": "q017",
+    "question_tr": "Çift anadal veya yandal yapılabilir mi?",
+    "question_en": "Is it possible to do a double major or minor?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "çift anadal",
+      "double major",
+      "minor"
+    ],
+    "ground_truth_answer": "Title: ÇAP ve Yandal Bursları URL: https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/cap-yandal-burslari ÇAP ve Yandal Bursları Çift anadal ve yandal programlarının başvuru ve kabul şartlarını sağlayan İZÜ öğrencileri kontenjan dahilinde burslu olarak ÇAP ve yandal programlarına kayıt yaptırabiliyor Öğrenciler kayıtlı oldukları çift anadal programının azami öğrenim süresince Burslu olarak öğrenim görürler Öğrenciler kayıtlı oldukları yandal....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/cap-yandal-burslari",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi"
+    ]
+  },
+  {
+    "id": "q018",
+    "question_tr": "Programlarda zorunlu staj var mı?",
+    "question_en": "Are internships mandatory in the programs?",
+    "category": "programs",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "staj",
+      "internship",
+      "practical"
+    ],
+    "ground_truth_answer": "İKİNCİ BÖLÜM Barkat’ın Amaçları ve Faaliyet Alanı 5 – Barkat’ın amaçları ve faaliyet alanları şunlardır: a) Barkat adlı ahşap yapım sisteminin ve bu sistemin ürünü olarak Bark’ın yapısal ve mekânsal uyarlama ve çeşitlemelerine yönelik araştırma, uygulama ve geliştirme çalışmalarını yürütmek b) Genelde yapı teknolojisi ve restorasyonu, özelde mimari mirasımız dahilindeki....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q019",
+    "question_tr": "Üniversiteye nasıl başvuru yapılır?",
+    "question_en": "How do I apply to the university?",
+    "category": "admissions",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "başvuru",
+      "application",
+      "nasıl"
+    ],
+    "ground_truth_answer": "3 iş günü içinde alınmayan iş ve sarf malzeme atölyenin ihtiyarında kullanılır Atölyeye ait olan herhangi araç-gereç dışarıya çıkarılmamalıdır Ek-2 Yapı Üretim Atölyesi’ndeki Donanımı Kullanım Talep ve Açık Rıza Formu 1 Kişisel Bilgiler Adı Soyadı: .............................................................. T.C Kimlik No: ........................................................",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/ogrenci/kayit-kabul/akademik-takvim/2025-2026-egitim-ogretim-yili-lisans-ve-lisansustu-akademik-takvim"
+    ]
+  },
+  {
+    "id": "q020",
+    "question_tr": "YKS puanı kaç olmalı?",
+    "question_en": "What should the YKS score be?",
+    "category": "admissions",
+    "language": "tr",
+    "difficulty": "hard",
+    "expected_topics": [
+      "yks",
+      "sınav",
+      "exam"
+    ],
+    "ground_truth_answer": "İKİNCİ BÖLÜM Barkat’ın Amaçları ve Faaliyet Alanı 5 – Barkat’ın amaçları ve faaliyet alanları şunlardır: a) Barkat adlı ahşap yapım sisteminin ve bu sistemin ürünü olarak Bark’ın yapısal ve mekânsal uyarlama ve çeşitlemelerine yönelik araştırma, uygulama ve geliştirme çalışmalarını yürütmek b) Genelde yapı teknolojisi ve restorasyonu, özelde mimari mirasımız dahilindeki....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q021",
+    "question_tr": "Başvuru için hangi belgeler gerekli?",
+    "question_en": "What documents are required for application?",
+    "category": "admissions",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "belgeler",
+      "documents",
+      "gerekli"
+    ],
+    "ground_truth_answer": "b) Sorumlusunun, Personel ve Stajyer’in İş Sağlığı ve Güvenliği Eğitimine katılmış ve eğitim sonunda yapılan sınavı başarmış olması gerekir c) İSG Koordinatörlüğü en az yılda kez olmak üzere, Atölye’yi inceleyerek İSG raporunu hazırlar ve Dekanlığa sunar Rapor, İSG mevcut durum analizi ve güvenli çalışma ortamı sağlamak için yapılması gerekenleri belirtir....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q022",
+    "question_tr": "Başvuru son tarihi ne zaman?",
+    "question_en": "When is the application deadline?",
+    "category": "admissions",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "son tarih",
+      "deadline",
+      "başvuru tarihi"
+    ],
+    "ground_truth_answer": "Ek Başvuruları 9 Pazartesi-13 1 Ek Takviminin Edilmesi 13 1 EK SINAVLAR 16 - 19 1 Ek Sınavların 20 2 Ek Başvuruları 23 Pazartesi-27 2 Ek Takviminin Edilmesi 27 2 EK SINAVLAR 2 - 5 2.Ek Sınavların 6 Ek Başvurusunda Bulunmayan veya Ek Sınavlar Sonunda Başarısız Olanların İlişiklerinin Kesilmesi Gün....",
+    "requires_urls": [
+      "https://izu.edu.tr/ogrenci/kayit-kabul/akademik-takvim/2025-2026-egitim-ogretim-yili-lisans-ve-lisansustu-akademik-takvim",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi"
+    ]
+  },
+  {
+    "id": "q023",
+    "question_tr": "Yatay geçiş mümkün mü?",
+    "question_en": "Is transfer possible?",
+    "category": "admissions",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "yatay geçiş",
+      "transfer",
+      "transfer student"
+    ],
+    "ground_truth_answer": "Title: Barkat Atölyesi Yönergesi URL: https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi Barkat Atölyesi Yönergesi İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK BÖLÜMÜ BARKAT YAPI ÜRETİM ATÖLYESİ YÖNERGESİ BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar Amaç 1 – Bu yönergenin amacı; Mühendislik ve Doğa Bilimleri Fakültesi “Barkat Yapı Üretim Atölyesi”nde yürütülecek faaliyetlerin tanımlanması....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/ogrenci/kayit-kabul/akademik-takvim/-2024-2025-e%C4%9Fitim-%C3%B6%C4%9Fretim-y%C4%B1l%C4%B1-lisans-ve-lisans%C3%BCst%C3%BC-akademik-takvim"
+    ]
+  },
+  {
+    "id": "q024",
+    "question_tr": "DGS ile giriş yapılabilir mi?",
+    "question_en": "Can I enter with DGS?",
+    "category": "admissions",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "dikey geçiş",
+      "dgs",
+      "vertical transfer"
+    ],
+    "ground_truth_answer": "Tercih indiriminden; programında görmekte iken sınava girerek farklı programına yerleştirilen daha örgün programından olmuş Yatay 21 - kurumlar arası yapmak isteyen önceki programına yıldaki merkezi puanı, yapmak istediği programının yıldaki indirimli programının taban puanına eşit ise; “Yükseköğretim Kurumlarında Ön ve Düzeyindeki Programlar Arasında Geçiş, Çift Ana Dal, Yan Dal İle....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/kurumlararasi-yatay-gecis-yonergesi"
+    ]
+  },
+  {
+    "id": "q025",
+    "question_tr": "Mülakat var mı?",
+    "question_en": "Is there an interview?",
+    "category": "admissions",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "mülakat",
+      "interview"
+    ],
+    "ground_truth_answer": "Kurul Formu’ndaki araştırma başlığı ve başvuru dilekçenizdeki başlık aynı olmalıdır Araştırma ekibine ait bilgiler “Araştırmacı/lar Bilgisi”nde yer almalıdır araştırma yürütücüsü tarafından yapılmalıdır Araştırmaya en çok katkısı olandan en az katkısı olacak şekilde bir sıralamayla varsa diğer araştırmacılar dahil edilmelidir Araştırma yürütücüsü olmayan kişilerin yürütücü olarak gösterilmesi ve/veya araştırmaya katkısı olmayan....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/arastirma/etik-kurulu-basvurusu",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/yurt-disindan-ogrenci-kabul-yonergesi"
+    ]
+  },
+  {
+    "id": "q026",
+    "question_tr": "Başvuru sonuçları ne zaman açıklanır?",
+    "question_en": "When are admission results announced?",
+    "category": "admissions",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "sonuçlar",
+      "results",
+      "kabul"
+    ],
+    "ground_truth_answer": "3 iş günü içinde alınmayan iş ve sarf malzeme atölyenin ihtiyarında kullanılır Atölyeye ait olan herhangi araç-gereç dışarıya çıkarılmamalıdır Ek-2 Yapı Üretim Atölyesi’ndeki Donanımı Kullanım Talep ve Açık Rıza Formu 1 Kişisel Bilgiler Adı Soyadı: .............................................................. T.C Kimlik No: ........................................................",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari"
+    ]
+  },
+  {
+    "id": "q027",
+    "question_tr": "Yıllık öğrenim ücreti ne kadar?",
+    "question_en": "What is the annual tuition fee?",
+    "category": "fees",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "ücret",
+      "fee",
+      "tuition"
+    ],
+    "ground_truth_answer": "b) Sorumlusunun, Personel ve Stajyer’in İş Sağlığı ve Güvenliği Eğitimine katılmış ve eğitim sonunda yapılan sınavı başarmış olması gerekir c) İSG Koordinatörlüğü en az yılda kez olmak üzere, Atölye’yi inceleyerek İSG raporunu hazırlar ve Dekanlığa sunar Rapor, İSG mevcut durum analizi ve güvenli çalışma ortamı sağlamak için yapılması gerekenleri belirtir....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari"
+    ]
+  },
+  {
+    "id": "q028",
+    "question_tr": "Burs imkanları var mı?",
+    "question_en": "Are there scholarship opportunities?",
+    "category": "financial_aid",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "burs",
+      "scholarship"
+    ],
+    "ground_truth_answer": "Title: Tercih İndirimi URL: https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari Tercih İndirimi 2025-YKS yerleştirme sonuçlarına göre, Üniversitemizin lisans programlarına yerleşen öğrencilere, tercih sıralaması ve programa göre %40 ile %15 arasında değişen oranlarda “Tercih İndirimi” uygulanacaktır Tercih İndirimi, öğrencinin kayıtlı olduğu programın azami öğrenim süresi boyunca geçerli olup detaylı bilgilere Üniversitemizin Aday Öğrenci web sitesinden ve....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari",
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/cap-yandal-burslari"
+    ]
+  },
+  {
+    "id": "q029",
+    "question_tr": "Erken ödeme indirimi var mı?",
+    "question_en": "Is there an early payment discount?",
+    "category": "fees",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "indirim",
+      "discount"
+    ],
+    "ground_truth_answer": "Title: Tercih İndirimi URL: https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari Tercih İndirimi 2025-YKS yerleştirme sonuçlarına göre, Üniversitemizin lisans programlarına yerleşen öğrencilere, tercih sıralaması ve programa göre %40 ile %15 arasında değişen oranlarda “Tercih İndirimi” uygulanacaktır Tercih İndirimi, öğrencinin kayıtlı olduğu programın azami öğrenim süresi boyunca geçerli olup detaylı bilgilere Üniversitemizin Aday Öğrenci web sitesinden ve....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari",
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/cap-yandal-burslari"
+    ]
+  },
+  {
+    "id": "q030",
+    "question_tr": "Taksitle ödeme yapılabilir mi?",
+    "question_en": "Can I pay in installments?",
+    "category": "fees",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "taksit",
+      "installment",
+      "payment"
+    ],
+    "ground_truth_answer": "Dilekçede, itiraza konu hususlar açık ve gerekçeli şekilde belirtilir İtirazlar, fakülte kurulu en geç 14 gün içinde değerlendirilerek karara bağlanır ve sonucu Dekanlık öğrenciye yazılı olarak elektronik posta bildirilir Kayıt işlemleri 15 – Asil listede yer alan adayların kesin kayıtları, tarihlerde ve ettiği belgeleriyle birlikte şahsen noter onaylı vekaletname atanmış....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/kurumlararasi-yatay-gecis-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/yaz%C4%B1%C5%9Fma-kurallar%C4%B1-ve-belge-y%C3%B6netimi-y%C3%B6nergesi"
+    ]
+  },
+  {
+    "id": "q031",
+    "question_tr": "Öğrenci kredisi var mı?",
+    "question_en": "Are there student loans?",
+    "category": "financial_aid",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "kredi",
+      "loan",
+      "öğrenci kredisi"
+    ],
+    "ground_truth_answer": "Ne Yapmalıyım Detaylı bilgi tıklayınız Tezsiz Programının kaç dönemdir -Tezsiz yüksek programını tamamlama süresi, bilimsel hazırlık programında geçen hariç, olduğu programa ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yaptırıp yaptırmadığına bakılmaksızın en az yarıyıl, en çok üç yarıyıldır Tezsiz Programlarında Proje Danışmanımı ne zaman belirlemeliyim Danışman yapabilir miyim Proje danışmanının....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/sikca-sorulan-sorular",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi"
+    ]
+  },
+  {
+    "id": "q032",
+    "question_tr": "KYK bursu alınabilir mi?",
+    "question_en": "Can I get a KYK scholarship?",
+    "category": "financial_aid",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "kyk",
+      "burs",
+      "devlet"
+    ],
+    "ground_truth_answer": "Title: Tercih İndirimi URL: https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari Tercih İndirimi 2025-YKS yerleştirme sonuçlarına göre, Üniversitemizin lisans programlarına yerleşen öğrencilere, tercih sıralaması ve programa göre %40 ile %15 arasında değişen oranlarda “Tercih İndirimi” uygulanacaktır Tercih İndirimi, öğrencinin kayıtlı olduğu programın azami öğrenim süresi boyunca geçerli olup detaylı bilgilere Üniversitemizin Aday Öğrenci web sitesinden ve....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/ilk-bes-tercih-burslari",
+      "https://www.izu.edu.tr/aday-ogrenci/burslar-ucretler/cap-yandal-burslari"
+    ]
+  },
+  {
+    "id": "q033",
+    "question_tr": "Ücret iadesi yapılır mı?",
+    "question_en": "Are tuition refunds available?",
+    "category": "fees",
+    "language": "tr",
+    "difficulty": "hard",
+    "expected_topics": [
+      "ücret iadesi",
+      "refund"
+    ],
+    "ground_truth_answer": "Daha önceki Üniversitemde aldığım derslerden muafiyet talebinde bulunabilir miyim - Daha önce YÖK denkliği edilen herhangi yükseköğretim kurumunda görmüş öğrenci, o yükseköğretim kurumunda alıp olduğu dersler için, anabilim dalı başkanlığına not belgesinin aslını ve ders içeriklerini teslim etmeli daha sonra kampüs bilgi sisteminden ders muafiyet talebinde bulunmalıdır - Öğrenci, muafiyet....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/sikca-sorulan-sorular",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/kurumlararasi-yatay-gecis-yonergesi"
+    ]
+  },
+  {
+    "id": "q034",
+    "question_tr": "Uluslararası öğrenci kabul ediliyor mu?",
+    "question_en": "Do you accept international students?",
+    "category": "international",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "uluslararası",
+      "international",
+      "foreign"
+    ],
+    "ground_truth_answer": "e-Devlet üzerinden belgesi alınmaktadır Normal içerisinde tezimi tamamlayamadım Ek ne yapmam gerekiyor - Kayıtlı olduğu programı, normal içerisinde başarı tamamlayamayan öğrenci, daha sonraki yarıyıl(lar)da, İZÜ belirlenen (1) ders ücretini ödeyerek dilekçe Enstitü Müdürlüğüne başvuru yapıp ek talep edebilir Tezli Programının kaç dönemdir -Tezli yüksek programının bilimsel hazırlık programında geçen hariç,....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/sikca-sorulan-sorular",
+      "https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/sikca-sorulan-sorular"
+    ]
+  },
+  {
+    "id": "q035",
+    "question_tr": "YÖS sınavı gerekli mi?",
+    "question_en": "Is the YOS exam required?",
+    "category": "international",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "yös",
+      "sat",
+      "international exam"
+    ],
+    "ground_truth_answer": "Title: Hizmetler URL: https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/hizmetler Hizmetler Kafeteryalar Öğrencilerin beslenme ve ders dışı zamanlarında dinlenmelerine ve eğlenmelerine yönelik olarak, kampüsümüzde muhtelif kantin ve kafeteryalar bulunuyor Bulunduğu konum itibariyle, yeşil bir doğanın içerisinde yer alan kafeterya ve kantinlerimiz, öğrencilerimiz için ayrıcalıklı ve güzel bir buluşma noktası Kafeteryalarda öğrencilerimizin eğlence, dinlenme ve beslenme ihtiyaçlarını....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/hizmetler",
+      "https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/personel"
+    ]
+  },
+  {
+    "id": "q036",
+    "question_tr": "Öğrenci vizesi nasıl alınır?",
+    "question_en": "How do I get a student visa?",
+    "category": "international",
+    "language": "tr",
+    "difficulty": "hard",
+    "expected_topics": [
+      "vize",
+      "visa",
+      "residence"
+    ],
+    "ground_truth_answer": "(Vize ve Final haftalarında ise hafta içi 08:00 - 22:00 ve hafta sonu 08:00 - 19:00 saatleri arasında hizmet verilmektedir.) İZÜ KIRTASİYE ÇALIŞMA SAATLERİ GAZALA COPY CENTER HAFTA İÇİ CUMARTESİ PAZAR AÇILIŞ SAATİ KAPANIŞ SAATİ AÇILIŞ SAATİ KAPANIŞ SAATİ AÇILIŞ SAATİ KAPANIŞ SAATİ ÇALIŞMA SAATLERİ 08:00 19:00 09:00 15:00 x....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/hizmetler",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/yaz%C4%B1%C5%9Fma-kurallar%C4%B1-ve-belge-y%C3%B6netimi-y%C3%B6nergesi"
+    ]
+  },
+  {
+    "id": "q037",
+    "question_tr": "Erasmus programı var mı?",
+    "question_en": "Is there an Erasmus program?",
+    "category": "international",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "erasmus",
+      "exchange"
+    ],
+    "ground_truth_answer": "(5) Mali İşler Başkanına a) Öğrencilerin ücret iade, fazla ödeme iade, indirim, taksitlendirme vb taleplerine ilişkin dilekçe cevapları (6) Lisansüstü Enstitü Sekreterine a) Lisansüstü öğrencilerin öğrenci belgesi, transkript, öğrencilik işlemlerine ait belgeler (7) Uluslararası Öğrenciler ve İlişkiler Koordinatörüne a) Kabul mektupları yazışmalar, a) Yurtdışı heyetlerin ve üniversitelerin karşılanmasında kabul ve....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/yaz%C4%B1%C5%9Fma-kurallar%C4%B1-ve-belge-y%C3%B6netimi-y%C3%B6nergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/yurt-i-%C3%A7i-ve-yurt-d%C4%B1%C5%9F%C4%B1-i-dari-g%C3%B6rev-seyahat-y%C3%B6nergesi"
+    ]
+  },
+  {
+    "id": "q038",
+    "question_tr": "Türkçe bilmek zorunlu mu?",
+    "question_en": "Is Turkish language proficiency required?",
+    "category": "international",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "dil",
+      "language",
+      "türkçe"
+    ],
+    "ground_truth_answer": "İKİNCİ BÖLÜM Barkat’ın Amaçları ve Faaliyet Alanı 5 – Barkat’ın amaçları ve faaliyet alanları şunlardır: a) Barkat adlı ahşap yapım sisteminin ve bu sistemin ürünü olarak Bark’ın yapısal ve mekânsal uyarlama ve çeşitlemelerine yönelik araştırma, uygulama ve geliştirme çalışmalarını yürütmek b) Genelde yapı teknolojisi ve restorasyonu, özelde mimari mirasımız dahilindeki....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q039",
+    "question_tr": "Diploma denkliği gerekli mi?",
+    "question_en": "Is diploma equivalence required?",
+    "category": "international",
+    "language": "tr",
+    "difficulty": "hard",
+    "expected_topics": [
+      "denklik",
+      "equivalence",
+      "diploma"
+    ],
+    "ground_truth_answer": "-Doktora Programlarında tecil 6 yıl, -Tezli Programlarında tecil 3 yıl 4 ay, -Tezsiz Programlarında tecil 1,5 yıl, olarak yapılmaktadır Not : Daha önce aynı düzeyde herhangi lisansüstü programdan olanların Askerlik Sevk Tehir işlemleri yapılmamaktadır Lisansüstü Programlarda kayıtlı öğrencilerin sevk tehirleri azami 35 yaş sonuna yapılmaktadır Kayıtlı olduğu programın azami süresini....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/akademik/enstitu/lisansustu-egitim-enstitusu/ogrenci/sikca-sorulan-sorular",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi"
+    ]
+  },
+  {
+    "id": "q040",
+    "question_tr": "Kampüste yurt var mı?",
+    "question_en": "Are there dormitories on campus?",
+    "category": "student_services",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "yurt",
+      "dormitory",
+      "accommodation"
+    ],
+    "ground_truth_answer": "Yabancı uyruklu hesaplanırken notunun %20’si, tezli notunun %15’i, ALES puanının %10’u, puanının %10’u ve bilim notunun %45’i alınır Arapça İngilizcenin anadil ya da resmi ülkelerde eğitim dili kaydolunacak dili programlarından adaylardan olmayanların 70 edilir d) Farklı sisteminde alınan notların 4’lük sisteme dönüşümü Yükseköğretim Kurulunun “4’lük Sistemindeki Notların 100’lük Sistemindeki Karşılıkları”....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi"
+    ]
+  },
+  {
+    "id": "q041",
+    "question_tr": "Öğrenci kulüpleri var mı?",
+    "question_en": "Are there student clubs?",
+    "category": "campus_life",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "kulüp",
+      "club",
+      "student club"
+    ],
+    "ground_truth_answer": "2 Lig takımlarının A Takımı PAF/Genç takımlarında en az lisanslı aldığını belgeleyen ve resmi müsabakalarda oynamış öğrencilere; okul takımıyla sporculuklarını sürdürmeleri şartıyla ila %75 arasında değişen oranlarda h) Lig statülerini içermeyen olimpik dallarında mücadele eden sporcular branşın en üst kademesinde (Büyükler A Kategorisi) son üç içerisinde en az lisanslı olduğunu....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/burs-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/sporcu-%C3%B6d%C3%BCl-y%C3%B6nergesi"
+    ]
+  },
+  {
+    "id": "q042",
+    "question_tr": "Kütüphane çalışma saatleri nedir?",
+    "question_en": "What are the library hours?",
+    "category": "academic_services",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "kütüphane",
+      "library"
+    ],
+    "ground_truth_answer": "DÖRDÜNCÜ BÖLÜM Oluşturulması, Desteklenmesi, İzlenmesi ve Değerlendirilmesi Yeni Oluşturulması 20- olma şartlarını taşıyan öğretim elemanı, yeni yayına yönelik hazırlanacak dilekçe ve Başvuru Formu (EK-1) Bölüm/Anabilim Dalı Kurulunda değerlendirilmek Bölüm/Anabilim Dalı Başkanlığına başvuruda bulunur Bölüm/Anabilim Dalı Kurulu Dekanlığa/Enstitü Müdürlüğüne iletilen başvurular birim yönetim kurulu değerlendirilerek uygun görülen taleplere ilişkin birim yönetim....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/sureli-yayinlar-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/misafir-akademisyen-kabul-ve-uygulama-yonergesi"
+    ]
+  },
+  {
+    "id": "q043",
+    "question_tr": "Kampüste yemekhane var mı?",
+    "question_en": "Is there a cafeteria on campus?",
+    "category": "campus_life",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "yemekhane",
+      "cafeteria",
+      "dining"
+    ],
+    "ground_truth_answer": "Title: Hizmetler URL: https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/hizmetler Hizmetler Kafeteryalar Öğrencilerin beslenme ve ders dışı zamanlarında dinlenmelerine ve eğlenmelerine yönelik olarak, kampüsümüzde muhtelif kantin ve kafeteryalar bulunuyor Bulunduğu konum itibariyle, yeşil bir doğanın içerisinde yer alan kafeterya ve kantinlerimiz, öğrencilerimiz için ayrıcalıklı ve güzel bir buluşma noktası Kafeteryalarda öğrencilerimizin eğlence, dinlenme ve beslenme ihtiyaçlarını....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/hizmetler",
+      "https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/temel-gorevler"
+    ]
+  },
+  {
+    "id": "q044",
+    "question_tr": "Spor tesisleri nelerdir?",
+    "question_en": "What sports facilities are available?",
+    "category": "campus_life",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "spor",
+      "sports",
+      "gym"
+    ],
+    "ground_truth_answer": "MODÜL Derslerin Başlaması / Sona Ermesi 9 Şubat - 3 Nisan Ramazan Bayramı Arefe: 19 Mart Perşembe, Saat:13.00'den sonra Bayram: 20 Mart - 22 Mart Pazar Sınavları (Yazılı) 6 Nisan Sınavları (Sözlü) 7 Nisan - 8 Nisan Sınav 10 Nisan 4 MODÜL Derslerin Başlaması / Sona Ermesi 13 Nisan -....",
+    "requires_urls": [
+      "https://izu.edu.tr/ogrenci/kayit-kabul/akademik-takvim/2025-2026-egitim-ogretim-yili-akademik-takvimi-hazirlik-programlari",
+      "https://izu.edu.tr/ogrenci/kayit-kabul/akademik-takvim/2025-2026-egitim-ogretim-yili-lisans-ve-lisansustu-akademik-takvim"
+    ]
+  },
+  {
+    "id": "q045",
+    "question_tr": "Kampüse nasıl ulaşılır?",
+    "question_en": "How do I get to campus?",
+    "category": "student_services",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "ulaşım",
+      "transportation",
+      "bus"
+    ],
+    "ground_truth_answer": "Title: Temel Görevler URL: https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/temel-gorevler Temel Görevler GÖREVLERİMİZ / FAALİYETLERİMİZ Üniversitemize verilen destek hizmetlerinin aksatılmadan yürütülmesi için gerekli olan mal ve hizmetlerin zamanında ve düzenli temini Satın alma birimimiz tarafından yapılır Satın alma işlemleri alınacak hizmet ya da malzemelerin yaklaşık maliyetlerine bakılarak ihale veya doğrudan temin usulüyle gerçekleştirilir Yapılacak hizmetlerin....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/temel-gorevler",
+      "https://www.izu.edu.tr/izu-hakkinda/kurumsal-bilgiler/idari-birimler/daire-baskanliklari/destek-hizmetleri-mudurlugu/temel-gorevler"
+    ]
+  },
+  {
+    "id": "q046",
+    "question_tr": "Akademik danışman nasıl seçilir?",
+    "question_en": "How do I choose an academic advisor?",
+    "category": "academic_services",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "danışman",
+      "advisor",
+      "academic advisor"
+    ],
+    "ground_truth_answer": "Title: 2025-2026 Eğitim Öğretim Yılı Lisans ve Lisansüstü Akademik Takvim URL: https://izu.edu.tr/ogrenci/kayit-kabul/akademik-takvim/2025-2026-egitim-ogretim-yili-lisans-ve-lisansustu-akademik-takvim 2025-2026 Eğitim Öğretim Yılı Lisans ve Lisansüstü Akademik Takvim 2025-2026 EĞİTİM ÖĞRETİM YILI Lisans ve Lisansüstü Programları Akademik Takvimi GÜZ DÖNEMİ Akademik Faaliyet Tarih Öğrenim Ücreti Ödemeleri (Yeni kayıt yaptıran ve uzatmalı öğrenciler hariç) 2 Pazartesi-29 Haftalık Programlarının....",
+    "requires_urls": [
+      "https://izu.edu.tr/ogrenci/kayit-kabul/akademik-takvim/2025-2026-egitim-ogretim-yili-lisans-ve-lisansustu-akademik-takvim",
+      "https://izu.edu.tr/ogrenci/kayit-kabul/akademik-takvim/2025-2026-egitim-ogretim-yili-lisans-ve-lisansustu-akademik-takvim"
+    ]
+  },
+  {
+    "id": "q047",
+    "question_tr": "Ders seçimi ne zaman yapılır?",
+    "question_en": "When is course registration?",
+    "category": "academic_services",
+    "language": "tr",
+    "difficulty": "medium",
+    "expected_topics": [
+      "ders seçimi",
+      "course registration"
+    ],
+    "ground_truth_answer": "İKİNCİ BÖLÜM Dersi Uygulama Esasları dersinin yürütülmesi 5- dersi lisans programlarının öğretim planlarının sekizinci yarıyılında alınması gereken seçmeli derslere bir seçenek olarak sunulur ve eğitime ara verilmeksizin dönem dersleriyle eş zamanlı yürütülür (2) öğrencisi, akademik takvimde belirtilen sekizinci yarıyılın ders seçimi ve onayı haftasından en az bir önceki haftaya kadar,....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/is-yeri-mesleki-egitim-program%C4%B1-iymep-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/erasmus-program%C4%B1-y%C3%B6nergesi"
+    ]
+  },
+  {
+    "id": "q048",
+    "question_tr": "Sınav tarihleri nasıl öğrenilir?",
+    "question_en": "How do I find out exam dates?",
+    "category": "academic_services",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "sınav",
+      "exam",
+      "final"
+    ],
+    "ground_truth_answer": "İKİNCİ BÖLÜM Barkat’ın Amaçları ve Faaliyet Alanı 5 – Barkat’ın amaçları ve faaliyet alanları şunlardır: a) Barkat adlı ahşap yapım sisteminin ve bu sistemin ürünü olarak Bark’ın yapısal ve mekânsal uyarlama ve çeşitlemelerine yönelik araştırma, uygulama ve geliştirme çalışmalarını yürütmek b) Genelde yapı teknolojisi ve restorasyonu, özelde mimari mirasımız dahilindeki....",
+    "requires_urls": [
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi",
+      "https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/barkat-atolyesi-yonergesi"
+    ]
+  },
+  {
+    "id": "q049",
+    "question_tr": "Transkript nasıl alınır?",
+    "question_en": "How do I get a transcript?",
+    "category": "academic_services",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "transkript",
+      "transcript"
+    ],
+    "ground_truth_answer": "(4) Kuzey Kıbrıs Türk Cumhuriyeti'ndeki kurumlarından başvurusunda bulunan üçüncü ülke vatandaşı öğrenciler (Türkiye Cumhuriyeti vatandaşı olmayanlar) aşağıdaki ek koşul aranır: a) Öğrencinin, KKTC'de üniversitede hariç olmak üzere en az iki (dört yarıyıl) görmüş şarttır b) Türkiye Cumhuriyeti vatandaşları birinci fıkrada belirtilen genel koşullar bu Yönergenin diğer hükümleri uygulanır Başvuru dönemi....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/kurumlararasi-yatay-gecis-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/yaz%C4%B1%C5%9Fma-kurallar%C4%B1-ve-belge-y%C3%B6netimi-y%C3%B6nergesi"
+    ]
+  },
+  {
+    "id": "q050",
+    "question_tr": "Öğrenci bilgi sistemine nasıl giriş yapılır?",
+    "question_en": "How do I access the student information system?",
+    "category": "academic_services",
+    "language": "tr",
+    "difficulty": "easy",
+    "expected_topics": [
+      "öğrenci bilgi sistemi",
+      "student information system",
+      "otomasyon"
+    ],
+    "ground_truth_answer": "İş Mesleki Eğitiminin değerlendirilmesi ve sonuçlandırılması 7 - İYMEP’e katılan öğrencilerin başarı durumları İş Sorumlusu ve Koordinatörü değerlendirilir (2) Koordinatörü, öğrencinin beş haftada bir olmak üzere hazırladığı üç rapor üzerinden değerlendirme yapar İş Sorumlusu ve Koordinatörü 100’lük sistemde ayrı ayrı takdir edilen puanların sırasıyla %40 ve %60 oranında ağırlıklandırılması hesaplanan....",
+    "requires_urls": [
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/is-yeri-mesleki-egitim-program%C4%B1-iymep-yonergesi",
+      "https://www.izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/is-yeri-mesleki-egitim-program%C4%B1-iymep-yonergesi"
+    ]
+  }
+]

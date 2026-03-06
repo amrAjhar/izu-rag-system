@@ -1,0 +1,600 @@
+[
+  {
+    "question": "What documents do I need for international student admission?",
+    "ground_truth_answer": "2018-2019 - Staff Mobility Training 2nd Application Announcement 2018-2019 - Staff Mobility Training 2nd Application Results 2018-2019 ACADEMIC YEAR (08 November 2018 - 16 Septmeber 2019) ERASMUS+ STAFF MOBILITY FOR TRAINING 2ND APPLICATION ANNOUNCEMENT Project Number: 2018-1-TR01-KA103-051573 Calen...",
+    "category": "international",
+    "source": "2018-2019 - Staff Mobility for Training 2nd Application Announcement",
+    "ground_truth_chunk_ids": [
+      1941,
+      1766,
+      1951,
+      1946,
+      1776
+    ]
+  },
+  {
+    "question": "What is the tuition fee for international students?",
+    "ground_truth_answer": "About Us Erasmus Club Imagine a team and office that has a mission to prepare the best possible welcome for the incoming Erasmus students and will do its best to increase the satisfaction of the Erasmus students... That's who we are... Erasmus Office Social Media Accounts Twitter Instagram Facebook ...",
+    "category": "international",
+    "source": "About Us",
+    "ground_truth_chunk_ids": [
+      269,
+      1828,
+      413,
+      435,
+      4516
+    ]
+  },
+  {
+    "question": "What support services are available for international students?",
+    "ground_truth_answer": "Erasmus+ Staff Mobility Activities STAFF From ABROAD Are you interested in teaching or training at IZU? View pages for incoming staff STAFF From IZU Are you interested in teaching or training abroad? View pages for outgoing staff General Information Staff Mobility for Teaching Erasmus+ supports teac...",
+    "category": "international",
+    "source": "Staff Mobility",
+    "ground_truth_chunk_ids": [
+      123,
+      1678,
+      125,
+      1680,
+      426
+    ]
+  },
+  {
+    "question": "Where is the International Office located?",
+    "ground_truth_answer": "Erasmus+ Staff Mobility Activities With Erasmus+, opportunities are available to spend time teaching at an education institution abroad. These opportunities are available to both staff working in the education sector and to individuals working outside the sector invited to share their knowledge and ...",
+    "category": "international",
+    "source": "Staff from Abroad",
+    "ground_truth_chunk_ids": [
+      426,
+      385,
+      1678,
+      123,
+      126
+    ]
+  },
+  {
+    "question": "Can international students work while studying?",
+    "ground_truth_answer": "How to Apply? Information E-mail After nomination is submitted you receive an information e-mail with web link to access your online application. Online Application Now you can fill in application. See deadlines in Calendar section. Please watch out for deadline for applications, as late application...",
+    "category": "international",
+    "source": "How to Apply",
+    "ground_truth_chunk_ids": [
+      380,
+      691,
+      1791,
+      225,
+      1147
+    ]
+  },
+  {
+    "question": "What languages are programs taught in?",
+    "ground_truth_answer": "Erasmus+ Coordinators Erasmus+ Coordination Office Mehmet Fatih METEHANOGLU Erasmus Institutional fatih.metehanoglu@izu.edu.tr +90 (212) 692 89 96 Ayse Büsra IÇKE Assistant Specialist Phone: +90 (212) 692 87 54 e-mail: ayse.icke@izu.edu.tr Isra ÇELEBI Assistant Specialist Phone: +90 (212) 692 97 43 ...",
+    "category": "international",
+    "source": "Erasmus+ Coordinators",
+    "ground_truth_chunk_ids": [
+      307,
+      1676,
+      293,
+      3137,
+      4516
+    ]
+  },
+  {
+    "question": "Are there scholarships for international students?",
+    "ground_truth_answer": "Application Calendar The nomination and application deadlines for each term are given in table below: Semesters Nomination deadlines Application deadlines Fall Term 10th of June 30th of July Spring Term 2nd of January 15th of January 2019 / 2020 - Incoming Students Calendar Fall Term Enrolment 09-18...",
+    "category": "international",
+    "source": "Application Calendar",
+    "ground_truth_chunk_ids": [
+      1816,
+      981,
+      1104,
+      594,
+      1211
+    ]
+  },
+  {
+    "question": "How do I get a student visa for Turkey?",
+    "ground_truth_answer": "Step by Step Registration IZU registration dates are in August-September. After being accepted to an undergraduate program at Istanbul Zaim University, should immediately start working on registration. should pay utmost attention to below instructions to experience a smooth process. Remember, regist...",
+    "category": "international",
+    "source": "Step by Step Registration",
+    "ground_truth_chunk_ids": [
+      186,
+      1119,
+      1833,
+      436,
+      473
+    ]
+  },
+  {
+    "question": "How do I register as an international student?",
+    "ground_truth_answer": "2019-2020 - Staff Mobility for Teaching 2nd Application Announcement Overall Assessment Results 2019-2020 ACADEMIC YEAR (08 Octobar 2019 - 11 September 2020) ERASMUS+ STAFF MOBILITY FOR TEACHING 2nd APPLICATION ANNOUNCEMENT Project Number: 2019-1-TR01-KA103-064111 Calendar 25 June 2019 2019-2020 Aca...",
+    "category": "international",
+    "source": "2019-2020 - Staff Mobility for Teaching 2nd Application Announcement",
+    "ground_truth_chunk_ids": [
+      1946,
+      1776,
+      1951,
+      1766,
+      1941
+    ]
+  },
+  {
+    "question": "How can I apply as an international student?",
+    "ground_truth_answer": "Contact The International Office Our WhatsApp Numbers Coordinator Nesibe ALOUDATALLAH nesibe.aloudatallah@izu.edu.tr 0 (212) 692 96 22 Deputy Coordinator Mehmet SAVUR mehmet.savur@izu.edu.tr 0 (212) 692 86 98 Digital Marketing Officer Madina NABIYEVA madina.nabiyeva@izu.edu.tr 0 (212) 692 86 65 Prot...",
+    "category": "international",
+    "source": "Contact The International Office",
+    "ground_truth_chunk_ids": [
+      1738,
+      174,
+      444,
+      1876,
+      66
+    ]
+  },
+  {
+    "question": "What are the admission requirements for Erasmus+ Koordinatörlügü?",
+    "ground_truth_answer": "Kurumsal Indir Erasmus Kodu: TR ISTANBU41 Organization ID : E10113388 Ülke / Sehir : Türkiye/Istanbul Yasal Temsilci: Prof. Dr. Ahmet Cevat ACAR Erasmus Kurum Koordinatörü ve Kurumlararasi Anlasma Yetkilisi: Mehmet Fatih METEHANOGLU Kurumsal E-Posta Adresleri Kurumsal: erasmus@izu.edu.tr Gelen Ögren...",
+    "category": "erasmus",
+    "source": "Erasmus+ Koordinatörlügü",
+    "ground_truth_chunk_ids": [
+      3136,
+      4515,
+      3140,
+      4519,
+      4516
+    ]
+  },
+  {
+    "question": "What are the research focus areas at IZU?",
+    "ground_truth_answer": "IZU Central Library, The Greatest Library in Istanbul has been opened. 20.05.2018 After completion of its construction, new Central Library of Sabahattin Zaim University in Istanbul has been opened. With a 13.500 square meters of area of usage, 1500 researching attendees and 1 million book capacity,...",
+    "category": "research",
+    "source": "IZU Central Library, The Greatest Library in Istanbul has been opened.",
+    "ground_truth_chunk_ids": [
+      35,
+      419,
+      0,
+      133,
+      1070
+    ]
+  },
+  {
+    "question": "How can I get involved in academic research?",
+    "ground_truth_answer": "Research and Teaching Assistant Job Announcement 26 July 2024 About Library working hours due to Eid al-Adha public holiday 21 June 2024 Library working hours changed until the university's education start date. 16 February 2023 IZU Central Library, The Greatest Library in Istanbul has been opened. ...",
+    "category": "research",
+    "source": "Announcements",
+    "ground_truth_chunk_ids": [
+      221,
+      33,
+      36,
+      1068,
+      34
+    ]
+  },
+  {
+    "question": "Are there research scholarships available?",
+    "ground_truth_answer": "Library working hours changed until the university's education start date. 16.02.2023 Due to the earthquake disaster, we are in; it is not yet clear when formal education will begin. During this period, many of our students are out of the city due to earthquake victims or taking part in relief effor...",
+    "category": "research",
+    "source": "Library working hours changed until the university's education start date.",
+    "ground_truth_chunk_ids": [
+      34,
+      221,
+      33,
+      981,
+      1068
+    ]
+  },
+  {
+    "question": "What research opportunities are available?",
+    "ground_truth_answer": "Research and Teaching Assistant Job Announcement 26 July 2024 About Library working hours due to Eid al-Adha public holiday 21 June 2024 Library working hours changed until the university's education start date. 16 February 2023 IZU Central Library, The Greatest Library in Istanbul has been opened. ...",
+    "category": "research",
+    "source": "Announcements",
+    "ground_truth_chunk_ids": [
+      221,
+      33,
+      36,
+      1068,
+      34
+    ]
+  },
+  {
+    "question": "What courses are included in the curriculum?",
+    "ground_truth_answer": "Teaching Job Announcement 26.07.2024 From Rectorate of Istanbul Sabahattin Zaim University Our university is hiring \"Research Teaching Assistants.\" From Rectorate of Istanbul Sabahattin Zaim University Teaching Assistants will be hired Faculties Departments listed below at our university, in accorda...",
+    "category": "research",
+    "source": "Research and Teaching Assistant Job Announcement",
+    "ground_truth_chunk_ids": [
+      1078,
+      37,
+      451,
+      774,
+      1070
+    ]
+  },
+  {
+    "question": "Are there any prerequisites for this program?",
+    "ground_truth_answer": "The IZU 2024-2025 Academic General Assembly Meeting Took Place 27.02.2025 The Istanbul Sabahattin Zaim University 2024-2025 Academic General Assembly Meeting was held at the Abdullah Tivnikli Conferance Hall. The event was attented by IZU Rector Prpf. Dr. Ahmet Cevat Acar, Vice Rector Prof. Dr. Ibra...",
+    "category": "announcements",
+    "source": "The IZU 2024-2025 Academic General Assembly Meeting Took Place",
+    "ground_truth_chunk_ids": [
+      751,
+      1390,
+      1061,
+      839,
+      778
+    ]
+  },
+  {
+    "question": "Is this program taught in English?",
+    "ground_truth_answer": "The issue of Ethics in Engineering 26.11.2025 The Engineering and Ethics Seminar organized by IZU Department of Industrial Engineering was held in Abdullah Tivnikli Conference Hall. In program, where Dr. Üzeyir Pala, faculty member of Industrial Engineering Department, served as speaker, topics such...",
+    "category": "announcements",
+    "source": "The issue of Ethics in Engineering",
+    "ground_truth_chunk_ids": [
+      1293,
+      1201,
+      1440,
+      1432,
+      1436
+    ]
+  },
+  {
+    "question": "Tell me about \"ProQuest Publicly Available Content Database\" veri tabani 31 Aralik 2022 tarihine kadar ücretsiz olarak erisime açilmistir.",
+    "ground_truth_answer": "\"ProQuest Publicly Available Content Database\" veri tabani 31 Aralik 2022 tarihine kadar ücretsiz olarak erisime açilmistir. 26.08.2021 Diger veri tabanlarini ve koleksiyonlari tamamlamak üzere tasarlanan bu veri tabani, dünyanin dört bir yanindan bir dizi farkli kaynaktan kamuya açik bilimsel içeri...",
+    "category": "general",
+    "source": "\"ProQuest Publicly Available Content Database\" veri tabani 31 Aralik 2022 tarihine kadar ücretsiz olarak erisime açilmistir.",
+    "ground_truth_chunk_ids": [
+      4820,
+      3447,
+      4767,
+      3394,
+      3421
+    ]
+  },
+  {
+    "question": "What online databases does the library provide access to?",
+    "ground_truth_answer": "LIBRARYTURK e-Kitap veritabani deneme erisimine açilmistir. 31.05.2024 Librarytürk, basili kitaplarin e-kitap formatina göre okuyucuya sunuldugu yapay zeka destekli bir e- kitap portalidir. Librarytürk kullanicilarina e-kitaplar arasinda literatürü tarama ve ulasma imkani sunar. Ayrica Librarytürk, ...",
+    "category": "general",
+    "source": "LIBRARYTURK e-Kitap veritabani deneme erisimine açilmistir.",
+    "ground_truth_chunk_ids": [
+      4787,
+      3486,
+      4826,
+      3453,
+      3900
+    ]
+  },
+  {
+    "question": "What are the career opportunities after graduation?",
+    "ground_truth_answer": "Teaching Application Research Center Regulation ISTANBUL SABAHATTIN ZAIM UNIVERSITY TURKISH EDUCATION AND TEACHING APPLICATION AND RESEARCH CENTRE REGULATION SECTION ONE Aim, Scope, Basis Definitions Aim 1 - This Regulation has been prepared in order to regulate principles procedures regarding field...",
+    "category": "general",
+    "source": "Istanbul Sabahattin Zaim University Turkish Education and Teaching Application and Research Center Regulation",
+    "ground_truth_chunk_ids": [
+      1555,
+      1499,
+      1619,
+      67,
+      1569
+    ]
+  },
+  {
+    "question": "Tell me about Haberler",
+    "ground_truth_answer": "Haberler & Duyurular Senin Objektifinden IZÜ Fotograf Yarismasi 5.12.2025 08:02:54 IZÜnün tarihî dokusunu, tabiatla iç içe geçmis mimarisini ve kampüs yasaminin benzersiz güzelliklerini görünür kilmak isteyen tüm IZÜ ögren... Ortadogu Mutfagi Restorani Isletme Isi Ihalesi 9.9.2025 11:30:12 ... 20...",
+    "category": "general",
+    "source": "Haberler",
+    "ground_truth_chunk_ids": [
+      3408,
+      4627,
+      1999,
+      4363,
+      2997
+    ]
+  },
+  {
+    "question": "What are the exam dates?",
+    "ground_truth_answer": "New Era in Special Education 25.09.2024 An orientation and introductory meeting was held for new students joining Special Education Department. During meeting, department's mission and career opportunities it offers to students were presented. An orientation and introductory meeting was held for new...",
+    "category": "announcements",
+    "source": "New Era in Special Education",
+    "ground_truth_chunk_ids": [
+      853,
+      854,
+      795,
+      998,
+      880
+    ]
+  },
+  {
+    "question": "What are the admission requirements for T.C. Istanbul Sabahattin Zaim Üniversitesi Bilimsel Arastirma Projeleri Yönergesi?",
+    "ground_truth_answer": "T.C. Istanbul Sabahattin Zaim Üniversitesi Arastirma Projeleri Yönergesi Üniversitemiz Senatosunun 20.02.2024 tarihli ve 2024/04 sayili ISTANBUL SABAHATTIN ZAIM ÜNIVERSITESI BILIMSEL ARASTIRMA PROJELERI YÖNERGESI BIRINCI BÖLÜM Baslangiç Hükümleri Amaç 1  Bu Yönerge; Istanbul Sabahattin Zaim Ünivers...",
+    "category": "general",
+    "source": "T.C. Istanbul Sabahattin Zaim Üniversitesi Bilimsel Arastirma Projeleri Yönergesi",
+    "ground_truth_chunk_ids": [
+      3628,
+      2261,
+      4262,
+      2896,
+      3706
+    ]
+  },
+  {
+    "question": "Where can I find information about Reading List (Comprehensive Exam for PhD)?",
+    "ground_truth_answer": "Reading List (Comprehensive Exam for PhD) - English Language and Literature - Islamic Economics and Finance (English) - Islamic Economics and Law (Arabic) - Political Science and International Relations (English)",
+    "category": "general",
+    "source": "Reading List (Comprehensive Exam for PhD)",
+    "ground_truth_chunk_ids": [
+      685,
+      379,
+      870,
+      597,
+      475
+    ]
+  },
+  {
+    "question": "What programs does Personel ve Personel Yakini Indirimi offer?",
+    "ground_truth_answer": "Personel ve Personel Yakini Indirimi Madde 26 - (1) Üniversitede kadrolu çalisan (en az bir yilini doldurmus) personele, Üniversitenin lisansüstü programina kayit yaptirmalari halinde kaydolunan programin normal ögrenim süresi içerisinde ödemeleri gereken ögrenim ücreti üzerinden %45 indirim yapilir...",
+    "category": "general",
+    "source": "Personel ve Personel Yakini Indirimi",
+    "ground_truth_chunk_ids": [
+      4390,
+      3050,
+      2093,
+      4928,
+      4935
+    ]
+  },
+  {
+    "question": "What information is available about IZÜ Merkez Kütüphanesini kurum disindan kullanmak isteyenler hakkinda?",
+    "ground_truth_answer": "IZÜ Merkez Kütüphanesini kurum disindan kullanmak isteyenler hakkinda 30.01.2019 IZÜ Merkez Kütüphanesini kurum disindan kullanmak isteyenler için ayrilan kontenjan dolmustur. IZÜ Kütüphanesi olarak sadece Üniversite mensuplarina degil, içinde bulundugumuz Halkali ve civarindaki insanlara da hizmet ...",
+    "category": "general",
+    "source": "IZÜ Merkez Kütüphanesini kurum disindan kullanmak isteyenler hakkinda",
+    "ground_truth_chunk_ids": [
+      4828,
+      3455,
+      4842,
+      3469,
+      3418
+    ]
+  },
+  {
+    "question": "Tell me about Kampüs disi erisim sistemi bakim çalismasi hakkinda",
+    "ground_truth_answer": "Kampüs disi erisim sistemi bakim çalismasi hakkinda 10.05.2021 Degerli üyelerimiz, Veri tabanlarina kampüs disi erisim hizmetimiz, sistem bakim çalismasi nedeniyle bir süredir çalismamaktadir. Erisim saglandiginda yine duyurulardan bilgi verecegiz. Saglikli günler dileriz, IZÜ Kütüphane ve Dokümanta...",
+    "category": "general",
+    "source": "Kampüs disi erisim sistemi bakim çalismasi hakkinda",
+    "ground_truth_chunk_ids": [
+      3438,
+      4811,
+      3464,
+      4837,
+      3168
+    ]
+  },
+  {
+    "question": "Can you explain Ulasim Araçlari Yönergesi?",
+    "ground_truth_answer": "Ulasim Araçlari Yönergesi Üniversitemiz Senatosunun 16.01.2025 tarihli ve2025/01 sayili Senato karar ekidir. ISTANBUL SABAHATTIN ZAIM ÜNIVERSITESI ULASIM ARAÇLARI KULLANIM YÖNERGESI BIRINCI BÖLÜM Baslangiç Hükümleri Amaç 1- Bu Yönergenin amaci, yönetiminden sorumlu birim tarafindan, hizmetlerin daha...",
+    "category": "general",
+    "source": "Ulasim Araçlari Yönergesi",
+    "ground_truth_chunk_ids": [
+      3577,
+      2210,
+      2261,
+      3628,
+      3941
+    ]
+  },
+  {
+    "question": "How long is the program duration?",
+    "ground_truth_answer": "Hizmetler Kafeteryalar Ögrencilerin beslenme ve ders disi zamanlarinda dinlenmelerine ve eglenmelerine yönelik olarak, kampüsümüzde muhtelif kantin ve kafeteryalar bulunuyor. Bulundugu konum itibariyle, yesil bir doganin içerisinde yer alan kafeterya ve kantinlerimiz, ögrencilerimiz için ayricalikli...",
+    "category": "general",
+    "source": "Hizmetler",
+    "ground_truth_chunk_ids": [
+      1997,
+      4625,
+      3174,
+      4484,
+      3114
+    ]
+  },
+  {
+    "question": "When is the course registration deadline?",
+    "ground_truth_answer": "IZU 2023-2024 Academic General Assembly Meeting Held 27.07.2024 Istanbul Sabahattin Zaim University held its 2023-2024 Academic General Assembly Meeting, attended by university's academic administrative staff. The meeting, led by IZU Rector Prof. Dr. Ahmet Cevat Acar, Vice Rectors Prof. Dr. Ibrahim ...",
+    "category": "announcements",
+    "source": "IZU 2023-2024 Academic General Assembly Meeting Held",
+    "ground_truth_chunk_ids": [
+      751,
+      1061,
+      1390,
+      839,
+      778
+    ]
+  },
+  {
+    "question": "When does the semester start?",
+    "ground_truth_answer": "IZÜ Welcomes Delegation from Sudan's African International University 13.10.2025 A delegation from the Africa International University in Sudan met with Istanbul Sabahattin Zaim University (IZU) Rector Prof. Dr. Ahmet Cevat Acar, Vice Rectors Prof. Dr. Ismail Küçük and Prof. Dr. Erhan Içener. Attend...",
+    "category": "announcements",
+    "source": "IZÜ Welcomes Delegation from Sudan's African International University",
+    "ground_truth_chunk_ids": [
+      1284,
+      1141,
+      1388,
+      1191,
+      1391
+    ]
+  },
+  {
+    "question": "What programs does Post War Reconstruction of Syria Symposium Held at IZU offer?",
+    "ground_truth_answer": "Post War Reconstruction of Syria Symposium Held at IZU 01.12.2025 The Post-War Reconstruction of Syria Symposium was held at Istanbul Sabahattin Zaim University. Organized in collaboration with Middle East Foundation, Turkish Journal of International Development, Omran Strategic Research Center,...",
+    "category": "announcements",
+    "source": "Post War Reconstruction of Syria Symposium Held at IZU",
+    "ground_truth_chunk_ids": [
+      1483,
+      1492,
+      1417,
+      1441,
+      1487
+    ]
+  },
+  {
+    "question": "What programs does Diploma, Sertifika ve Diger Ilgili Belgelerin Düzenlenmesine Iliskin Yönerge offer?",
+    "ground_truth_answer": "Diploma, ve Diger Ilgili Belgelerin Düzenlenmesine Iliskin Yönerge Üniversitemiz Senato karari: 20.02.2024 tarih ve 2024/04 ISTANBUL SABAHATTIN ZAIM ÜNIVERSITESI DIPLOMA, SERTIFIKA ve DIGER ILGILI BELGELERIN DÜZENLENMESINE ILISKIN YÖNERGE BIRINCI BÖLÜM Baslangiç Hükümleri Amaç 1 - Bu Yönerge; Üniver...",
+    "category": "general",
+    "source": "Diploma, Sertifika ve Diger Ilgili Belgelerin Düzenlenmesine Iliskin Yönerge",
+    "ground_truth_chunk_ids": [
+      2811,
+      4178,
+      3941,
+      2572,
+      2819
+    ]
+  },
+  {
+    "question": "Tell me about the Important Announcement for Thesis Master's Students whose Normal-Maximum Study Period Will Expire program",
+    "ground_truth_answer": "Important Announcement Thesis Master's Students whose Normal-Maximum Study Period Will Expire 23.03.2023 In Thesis Master's programs of our Institute, supervisors of students, have completed normal study period of four semesters or a maximum study period of six semesters (except Scientific Preparati...",
+    "category": "announcements",
+    "source": "Important Announcement for Thesis Master's Students whose Normal-Maximum Study Period Will Expire",
+    "ground_truth_chunk_ids": [
+      1456,
+      601,
+      1088,
+      955,
+      1053
+    ]
+  },
+  {
+    "question": "Can you explain COVID-19 Sürecinde IZÜ Merkez Kütüphanesi Çalisma Saatleri ve Usulü Hakkinda?",
+    "ground_truth_answer": "COVID-19 Sürecinde IZÜ Merkez Kütüphanesi Çalisma Saatleri ve Usulü Hakkinda 01.06.2020 Degerli IZÜ mensuplari, Merkez Kütüphanemiz 01 Haziran 2019 tarihi itibariyle hafta içi 08.30 - 17.30 saatleri arasinda açik olacaktir. Belirlenen sosyal mesafe kurallari dahilinde Merkez Kütüphaneyi kullanabilir...",
+    "category": "general",
+    "source": "COVID-19 Sürecinde IZÜ Merkez Kütüphanesi Çalisma Saatleri ve Usulü Hakkinda",
+    "ground_truth_chunk_ids": [
+      3423,
+      4796,
+      3425,
+      4798,
+      2115
+    ]
+  },
+  {
+    "question": "Can you explain Turcademy (Türkçe e-kitap) veri tabani kullanima açilmistir.?",
+    "ground_truth_answer": "Turcademy (Türkçe e-kitap) veri tabani kullanima açilmistir. 31.12.2024 Degerli mensuplarimiz; Ders kaynaklarinin önemli bir kismini içeren Turcademy veri tabani kullanima açilmistir. Kullanabilmek için IZÜ mail adresiniz ile kayit olmaniz gerekmektedir. https://www.turcademy.com/kayit Çalismalarini...",
+    "category": "general",
+    "source": "Turcademy (Türkçe e-kitap) veri tabani kullanima açilmistir.",
+    "ground_truth_chunk_ids": [
+      3501,
+      4869,
+      4836,
+      3463,
+      4870
+    ]
+  },
+  {
+    "question": "What programs does 6th Alumni Meeting Held offer?",
+    "ground_truth_answer": "6th Alumni Meeting Held 25.09.2024 The 6th Alumni Meeting of Istanbul Sabahattin Zaim University took place in inner courtyard. The event was attended by our Rector, Prof. Dr. Ahmet Cevat Acar, as IZÜ alumni reminisced about their past days. The 6th Alumni Reunion organized by Istanbul Sabahattin Za...",
+    "category": "announcements",
+    "source": "6th Alumni Meeting Held",
+    "ground_truth_chunk_ids": [
+      999,
+      1390,
+      984,
+      839,
+      1133
+    ]
+  },
+  {
+    "question": "Tell me about the Is Yeri Mesleki Egitim Programi (IYMEP) Yönergesi program",
+    "ground_truth_answer": "ISTANBUL SABAHATTIN ZAIM ÜNIVERSITESI IS YERI MESLEKI EGITIM PROGRAMI (IYMEP) YÖNERGESI BIRINCI BÖLÜM Baslangiç Hükümleri Amaç 1 - Bu Yönergenin amaci; Sabahattin Zaim Üniversitesine bagli tüm mühendislik lisans programlarinda uygulanacak olan Is Mesleki Programi esaslari düzenlemektir. Kapsam 2 - B...",
+    "category": "general",
+    "source": "Is Yeri Mesleki Egitim Programi (IYMEP) Yönergesi",
+    "ground_truth_chunk_ids": [
+      2314,
+      3681,
+      4211,
+      2844,
+      3283
+    ]
+  },
+  {
+    "question": "Tell me about the 2023-2024 Spring Semester Normal-Maximum Tuition Period Will Expire Important Announcement for PhD Students program",
+    "ground_truth_answer": "2023-2024 Spring Semester Normal-Maximum Tuition Period Will Expire Important Announcement PhD Students 29.02.2024 In doctoral programs of our Institute , supervisors of students, have completed standard study period of eight semesters or a maximum study period of twelve semesters (excluding Scienti...",
+    "category": "announcements",
+    "source": "2023-2024 Spring Semester Normal-Maximum Tuition Period Will Expire Important Announcement for PhD Students",
+    "ground_truth_chunk_ids": [
+      665,
+      1216,
+      634,
+      1424,
+      1094
+    ]
+  },
+  {
+    "question": "What information is available about Kütüphane Çalisma Saatlerine Final Sinavlari Düzenlemesi (19-31 Mayis 2019)?",
+    "ground_truth_answer": "Kütüphane Çalisma Saatlerine Final Sinavlari Düzenlemesi (19-31 Mayis 2019) 17.05.2019 Üniversitemizde yaklasan final sinavlari dikkate alinarak IZÜ Merkez Kütüphanesi çalisma saatleri yeniden düzenlenmistir. Bu minvalde IZÜ Merkez Kütüphanesi 19 Mayis-31 Mayis 2019 tarihleri arasinda 24 saat kesint...",
+    "category": "general",
+    "source": "Kütüphane Çalisma Saatlerine Final Sinavlari Düzenlemesi (19-31 Mayis 2019)",
+    "ground_truth_chunk_ids": [
+      4832,
+      3459,
+      4790,
+      3417,
+      4827
+    ]
+  },
+  {
+    "question": "Can students participate in research projects?",
+    "ground_truth_answer": "IZU Signs Memorandum of Understanding with Urgench State Pedagogical Institute! 27.07.2024 Istanbul Sabahattin Zaim University Hosts Officials from Urgench State Pedagogical Institute In the scope of international educational collaboration activities, Istanbul Sabahattin Zaim University (IZU) welcom...",
+    "category": "announcements",
+    "source": "IZU Signs Memorandum of Understanding with Urgench State Pedagogical Institute!",
+    "ground_truth_chunk_ids": [
+      1022,
+      0,
+      133,
+      809,
+      785
+    ]
+  },
+  {
+    "question": "What are the admission requirements for STK's and Student Clubs Meet at IZÜ Campus?",
+    "ground_truth_answer": "STK's Student Clubs Meet at IZÜ Campus 22.10.2025 Organized in collaboration Turkey Volunteer Associations Foundation (TGTV), Union of Civil Society Organizations of Islamic World (IDSB), Istanbul Sabahattin Zaim University, STKFest25 kicked off at IZÜ Stadium. The opening ceremony of event, theme ...",
+    "category": "announcements",
+    "source": "STK's and Student Clubs Meet at IZÜ Campus",
+    "ground_truth_chunk_ids": [
+      1366,
+      1193,
+      856,
+      786,
+      276
+    ]
+  },
+  {
+    "question": "Where can I find information about Kütüphane Çalisma Saatlerine Final Sinavlari Düzenlemesi (YENI)?",
+    "ground_truth_answer": "Kütüphane Çalisma Saatlerine Final Sinavlari Düzenlemesi (YENI) 31.05.2019 Final sinavlarinin 2 Haziran Pazar gününe kadar devam etmesi ve bu süreye kadar kütüphanenin açik kalmasi yönünde gelen talepler dikkate alinarak çalisma saatleri asagidaki gibi düzeltilmistir. Merkez Kütüphane 2 Haziran Paza...",
+    "category": "general",
+    "source": "Kütüphane Çalisma Saatlerine Final Sinavlari Düzenlemesi (YENI)",
+    "ground_truth_chunk_ids": [
+      3460,
+      4833,
+      4790,
+      3417,
+      3459
+    ]
+  },
+  {
+    "question": "What information is available about Yabanci Dil Esdegerlik Tablosu?",
+    "ground_truth_answer": "Yabanci Dil Sinavlari Denklik Tablosu Yabanci Dil Sinavlari Esdegerlik tablosuna ulasmak için tiklayiniz>>>",
+    "category": "general",
+    "source": "Yabanci Dil Esdegerlik Tablosu",
+    "ground_truth_chunk_ids": [
+      3015,
+      3254,
+      4600,
+      3204,
+      4547
+    ]
+  },
+  {
+    "question": "Tell me about the Kanat: America at a Crossroads program",
+    "ground_truth_answer": "Kanat: America at a Crossroads 01.12.2025 Assoc. Prof. Dr. Kiliç Bugra Kanat, Member of Security Foreign Policies Council of Presidency of Republic of Türkiye, spoke at Istanbul Sabahattin Zaim University about impact of four major crises United States has experienced over past twenty years on globa...",
+    "category": "announcements",
+    "source": "Kanat: America at a Crossroads",
+    "ground_truth_chunk_ids": [
+      1466,
+      1871,
+      1472,
+      1198,
+      1467
+    ]
+  }
+]
